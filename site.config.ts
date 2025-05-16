@@ -20,8 +20,8 @@ export default siteConfig({
   twitter: 'transitive_bs',
   github: 'transitive-bullshit',
   linkedin: 'fisch2',
-  Taobao: 'https://m.tb.cn/h.T9t6bBuDgs9JKtq',
-  xianyu:'https://m.tb.cn/h.T99HHkx?tk=lqoxed1mDba',
+  //Taobao: 'https://m.tb.cn/h.T9t6bBuDgs9JKtq',
+  //xianyu:'https://m.tb.cn/h.T99HHkx?tk=lqoxed1mDba',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
