@@ -2,16 +2,16 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: '18556eae0d34805f82c3f790d22434d8?v=18556eae0d3480dabd40000c2d8c01e5',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: '垚小尧制造厂',
+  domain: 'https://yxymyog.notion.site/18556eae0d34805f82c3f790d22434d8?v=18556eae0d3480dabd40000c2d8c01e5',
+  author: '垚小尧',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
@@ -20,6 +20,8 @@ export default siteConfig({
   twitter: 'transitive_bs',
   github: 'transitive-bullshit',
   linkedin: 'fisch2',
+  Taobao: 'https://m.tb.cn/h.T9t6bBuDgs9JKtq',
+  xianyu:'https://m.tb.cn/h.T99HHkx?tk=lqoxed1mDba',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
